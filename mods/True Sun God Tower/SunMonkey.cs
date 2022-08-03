@@ -30,7 +30,7 @@ namespace True_Sun_God_Tower
 
         public override int BottomPathUpgrades => 0;
 
-        public override string Description => "Shoots powerful beams to destroy any bloon that gets near it. It i extremely useful for MOAB class type bloons.";
+        public override string Description => "Shoots powerful beams to destroy any bloon that gets near it. It is extremely useful for MOAB class type bloons.";
 
         public override string TowerSet => MAGIC;
 
