@@ -1,2 +1,0 @@
-C:\Users\seong\OneDrive\문서\MODS\TemplateMod\obj\Release\TemplateMod.csproj.AssemblyReference.cache
-C:\Users\seong\OneDrive\문서\MODS\TemplateMod\obj\Release\TemplateMod.csproj.CoreCompileInputs.cache
